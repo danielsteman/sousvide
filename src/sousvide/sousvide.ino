@@ -14,7 +14,7 @@
 
 // network credentials
 char ssid[] = "Upperchurch";
-char pass[] = "UpperchUrch50b";
+char pass[] = "XXXXXXXXX";
 
 const int temperaturePin = 2;
 const int relayPin = 15;
